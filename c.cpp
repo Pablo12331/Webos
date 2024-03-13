@@ -15,6 +15,6 @@ int main()
     cout<<"\nSu edad es: "<< edad 
         << "\nSu sexo es: "<< sexo 
         <<"\nSu estatura es: "<< altura <<endl;
-        
+    cout<<"a";
     return 0;
 }
